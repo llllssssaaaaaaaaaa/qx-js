@@ -239,7 +239,7 @@ const imgMaps = { "5604308767.png": "情", "6457819129.png": "嫡", "1250302.png
 ^https://www.\d+yydstxt\d+.com/\d+/\d+/\d+ url script-response-body https://github.com/llllssssaaaaaaaaaa/qx-js/raw/main/bakzhu.js
 
 [mitm]
-hostname =www.88yydstxt178.com
+hostname =www.*yydstxt178.com
 
 */
 
